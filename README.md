@@ -96,9 +96,9 @@ I am a software engineer proficient in Javascript, Node, ES6, React, Express, SQ
 
 <div style="flex" align="center">
 
-<a href="https://github.com/Pollock-Nag/">
-	  <img src="https://github-readme-stats.vercel.app/api?username=Pollock-Nag&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="59%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pollock-Nag&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="38%"  alt="0xabdulkhalid"/>
+<a href="https://github.com/TKRchamak/">
+	  <img src="https://github-readme-stats.vercel.app/api?username=TKRchamak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="59%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TKRchamak&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="38%"  alt="0xabdulkhalid"/>
 
 
 
